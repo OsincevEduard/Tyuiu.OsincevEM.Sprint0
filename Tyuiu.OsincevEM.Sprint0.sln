@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{38496431-2CF0-49CB-807B-77490F2DD311}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.OsincevEM.Sprint0.Task0.V0", "Tyuiu.OsincevEM.Sprint0.Task0.V0\Tyuiu.OsincevEM.Sprint0.Task0.V0.csproj", "{F58A0034-65EF-4EAD-A0B1-2EB2E74AF0EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F58A0034-65EF-4EAD-A0B1-2EB2E74AF0EE} = {38496431-2CF0-49CB-807B-77490F2DD311}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F58A0034-65EF-4EAD-A0B1-2EB2E74AF0EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F58A0034-65EF-4EAD-A0B1-2EB2E74AF0EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F58A0034-65EF-4EAD-A0B1-2EB2E74AF0EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F58A0034-65EF-4EAD-A0B1-2EB2E74AF0EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
